@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "http://examplesite.org"
+baseURL = "https://jujae.github.io/tri-dsa-test/"
 title = "TRI-DSA | Training & Research Institute of Data Science Analytics"
 theme = "tri-dsa"
 # themesDir = "/themes"
